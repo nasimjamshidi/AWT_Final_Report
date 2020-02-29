@@ -1,12 +1,15 @@
 # AWT_Final_Report
 
 
-It has to be noted that three different types of files have been uploaded:
-•	First, all three presentation slides.
-•	Second, the final report of the project in IEEE format.
-•	Third, three Jupyter notebook files can be found in repository. 
+It has to be noted that four different types of files have been uploaded:
+â€¢ First, all three presentation slides.
+â€¢ Second, the final report of the project in IEEE format.
+â€¢ Third, three Jupyter notebook files can be found in repository. 
+
         One is for simple (blind) cross validation and dataset split which 
         we have done in the Second part of our work. The second is the model 
-        build using one-leave-out cross validation which has a complete data 
-        preprocessing of the data and done for third/final step of the project.
-        The third is showing how RD curves and convex hull is build.
+         build using one-leave-out cross validation which has a complete data 
+         preprocessing of the data and done for third/final step of the project.
+         The third is showing how RD curves and convex hull is build.
+
+â€¢ Forth, four figures as mentioned in the final report.
